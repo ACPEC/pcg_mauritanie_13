@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'Plan Comptable de la Mauritanie',
-    'author': 'Med Mahmoud',
+    'author': 'ACPEC SARL',
     'company': 'ACPEC SARL',
     'version': '1.0',
     'license': 'AGPL-3',
